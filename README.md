@@ -1,6 +1,6 @@
 # README
 
-Ruby practice along with a video creating an app in Ruby. This is what a great foray into Ruby as I got experience with MVC architecture, Ruby programming, Rails serverside setup, environment setup. Plan is to recreate this more and more over time so that I can get comfortable working in Ruby on Rails.
+Ruby practice along with a video creating an app in Ruby. This was a great foray into Ruby as I got experience with MVC architecture, Ruby programming, Rails serverside setup, environment setup. My plan is to recreate this more and more over time so that I can get comfortable working in Ruby on Rails.
 
 Functionality includes:
 
